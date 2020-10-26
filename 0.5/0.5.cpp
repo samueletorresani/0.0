@@ -1,18 +1,15 @@
 #include <iostream>
 using namespace std;
-int main()
-{   
-    float a, b, c;
-    int somma, media, prodotto;
-    cout<<"Inserisci il primo numero ";
+int main(){
+    float a,b;
+    cout<<"inserire un numero"<<endl;
     cin>>a;
-    cout<<"Inserisci il secondo numero ";
+    cout<<"inserire un' altro numero"<<endl;
     cin>>b;
-    cout<<"Inserisci il terzo numero ";
-    cin>>c;
-    somma = a+b+c;
-    media = somma/3;
-    prodotto = a*b*c;
-    cout<<"somma= "<<somma<<endl<<"media= "<<media<<endl<<"prodotto= "<<prodotto<<endl;
-    return 0;
+    int somma=a+b;
+    cout<<"somma= "<<somma<<endl;
+    cout<<"media= "<<somma/2<<endl;
+    cout<<"prodotto= "<<a*b<<endl;
+    cout<<"maggiore= "<<max(a,b)<<endl;
+    cout<<"minore= "<<min(a,b)<<endl;
 }
