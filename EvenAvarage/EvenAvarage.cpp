@@ -15,6 +15,6 @@ int main ()
             cout<<"inserire numero "<<endl;
             cin>>in;
         }
-    cout<<"risultato = "<< sum/n<<endl;
+    cout<<"risultato = "<< (float)sum/n<<endl;
     return 0;
 }

@@ -1,3 +1,8 @@
+/*
+    Scrivere un programma che chide all'utente due numeri e ne calcola somma, prodotto, dierenza, divisione
+    e resto.
+*/
+
 #include <iostream>
 using namespace std;
 int main()

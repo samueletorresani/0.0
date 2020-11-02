@@ -1,3 +1,9 @@
+/*
+    Scrivere un programma che si fa inserire la lunghezza del raggio e calcola il diametro, circonferenza e area.
+    Ci sono diversi modi nell'ottenere la costante π, tra cui scriversela a mano. Fare i calcoli direttamente
+    nei comandi di cout.
+*/
+
 using namespace std;
 #include <iostream>
 int main()

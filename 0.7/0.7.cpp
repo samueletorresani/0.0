@@ -1,3 +1,8 @@
+/*
+    Scrivere un programma che prende un intero e verica se questo è pari o dispari e scrive qualcosa a
+    proposito.
+*/
+
 using namespace std;
 #include <iostream>
 int main()

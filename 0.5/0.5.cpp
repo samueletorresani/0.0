@@ -1,3 +1,8 @@
+/*
+    Scrivere un programma che legge tre numeri e calcola la somma, la media, il prodotto, il più grande e il
+    più piccolo.
+*/
+
 #include <iostream>
 using namespace std;
 int main(){

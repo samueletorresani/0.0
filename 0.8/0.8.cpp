@@ -1,3 +1,7 @@
+/*
+    Scrivere un programma che prende due numeri interi e determina se il primo è un multiplo del secondo.
+*/
+
 #include <iostream>
 using namespace std;
 int main(){

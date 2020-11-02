@@ -1,3 +1,8 @@
+/*
+    Scrivere un programma completo che chiede all'utente tre numeri interi e ne calcola il prodotto.
+    Occhio: Se invece venisse chiesto di chiedere dieci numeri?
+*/
+
 #include <iostream>
 using namespace std;
 int main()
